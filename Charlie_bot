@@ -1,0 +1,14 @@
+<head>
+ <body>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https://storage.googleapis.com/cloudprod-apiai/db617a65-4a3e-4ac5-8626-c344df77e8a2_x.png"
+  intent="WELCOME"
+  chat-title="Charlie_Bot"
+  agent-id="7f74ca9d-b46f-4a3c-ac5f-e3663de61625"
+  language-code="en"
+></df-messenger>
+
+  </body>
+</head>
